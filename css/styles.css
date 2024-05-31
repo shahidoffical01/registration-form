@@ -1,0 +1,56 @@
+body {
+	background-image: url('../img/5.jpg');
+	background-size: cover;
+	background-position: center;
+}
+.reg-form {
+	
+	height: 430px;
+	width: 400px;
+	padding: 30PX;
+	color: black;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 30px;
+	/*border: 2px solid green;*/
+}
+.reg-form h2{
+	font-size: 30px;
+}
+.reg-form h2, p {
+	text-align: center;
+}
+.reg-form hr {
+	border: 2px solid orange;
+}
+.reg-form input[type="text"] {
+	width: 100%;
+	height: 100%;
+}
+.reg-form input[type="password"] {
+	width: 100%;
+	height: 100%;
+}
+.reg-form label {
+	color: white;
+}
+.reg-form input[type="reset"] {
+	width: 35%;
+	height: 48px;
+	margin-top: 10px;
+	font-size: 15px;
+	border-radius: 10px;
+	background-color: #55ACEE;
+
+}
+.reg-form input[type="submit"] {
+	width: 35%;
+	height: 48px;
+	font-size: 15px;
+	border-radius: 10px;
+	background-color: #55ACEE;
+
+}
+
+
+
